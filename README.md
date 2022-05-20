@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @noatex
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me suritarun2002@gmail.com
 
 <!---
